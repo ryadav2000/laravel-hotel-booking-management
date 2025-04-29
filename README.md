@@ -4,9 +4,9 @@ This is a Laravel-based web application.
 
 ## Requirements
 
-- PHP >= 8.0
+- PHP >= 8.1
 - Composer
-- Laravel >= 9.x
+- Laravel >= 10.29.0
 - MySQL 
 
 
